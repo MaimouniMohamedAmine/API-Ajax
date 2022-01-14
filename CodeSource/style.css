@@ -24,9 +24,16 @@ img{
     -webkit-transform: scale(1.1);
     transform: scale(1.1); 
 }
-
-span {
+.flex{
+    margin-bottom: -8%;}
+p{
+    float: left;
     font-size: 29.99px;
     color:#CBB26A;
-    margin-left: 10%;
+    margin-bottom: -5rem !;
+}
+h4{
+    color:#CBB26A;
+    float: left;
+
 }
