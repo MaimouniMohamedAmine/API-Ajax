@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&family=Raleway:ital,wght@1,200&display=swap');
+*{
+    margin:0px;
+    background-color: #6b5c53!important;
+    padding: 0px;
+    font-family: 'Raleway', sans-serif;
+    text-shadow:1px 1px 3px rgb(248, 248, 195);
+}
+img{
+    border-radius: 10%;
+}
+#Logo{
+    /* background-color: #6b5c53; */
+    border-radius: 0px;
+}
+.Thumbnails{
+    border-color:#CBB26A ;
+    /* border-bottom: 10px solid #CBB26A;  */
+    border-inline: 7px solid #CBB26A;
+    transition: transform .2s;
+} 
+  .Thumbnails:hover {
+    -ms-transform: scale(1.1); 
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1); 
+}
+
+span {
+    font-size: 29.99px;
+    color:#CBB26A;
+    margin-left: 10%;
+}
